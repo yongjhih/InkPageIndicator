@@ -23,7 +23,6 @@ android {
 
 dependencies {
     api 'com.android.support:support-core-ui:27.0.1'
-    api 'com.android.support:support-v4:27.0.1'
 }
 
 apply from: 'https://raw.githubusercontent.com/Commit451/gradle-android-javadocs/1.0.0/gradle-android-javadocs.gradle'
